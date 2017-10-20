@@ -1,0 +1,45 @@
+.header {
+  background-color: #300032;
+  padding-top: 15px;
+  height: 75px;
+}
+.navbar {
+  background-color: #300032;
+}
+
+.navbar-left {
+  float: left;
+  font-size: 1.3em;
+  margin-top: 20px;
+}
+
+
+.navbar-right {
+  float: right;
+  margin-right: 100px;
+  margin-top: 20px;
+}
+
+.navbar-right a {
+  margin-left: 25px;
+}
+
+.navbar-item {
+  color: white !important;
+}
+.content {
+  margin-top: 50px;
+}
+
+.container {
+  margin-left: 100px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.textblock {
+  margin-top: 15px;
+  margin-right: 75px;
+}
