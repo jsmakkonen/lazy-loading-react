@@ -1,4 +1,4 @@
-#Lazy Loading in React
+# Lazy Loading in React
 
 A simple app to demonstrate how lazy loading works in React.
 
